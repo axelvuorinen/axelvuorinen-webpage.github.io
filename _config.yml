@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Axel Vuorinen / Webpage"
+title                    : "Axel Vuorinen | Webpage"
 title_separator          : "-"
 name                     : &name "Axel Vuorinen"
 description              : &description "PhD studient in Applied Mathematics for Biostatistics"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Axel Vuorinen"
+  avatar           : "profile_picture.png"
+  bio              : "PhD studient in Applied Mathematics for Biostatistics"
+  location         : "Paris"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : # None for now
+  googlescholar    : # None for now
+  email            : "axel.vuorinen@inria.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/axel-vuorinen-a2b984195/"
+  orcid            : # None for now
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: CET # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
