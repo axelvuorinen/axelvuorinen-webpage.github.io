@@ -11,9 +11,9 @@ title                    : "Axel Vuorinen | Webpage"
 title_separator          : "-"
 name                     : &name "Axel Vuorinen"
 description              : &description "My professional webpage to display my CV and my works."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://axelvuorinen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "axelvuorinen-webpage.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Axel Vuorinen"
   avatar           : "profile_picture.png"
-  bio              : "PhD studient in Applied Mathematics for Biostatistics"
+  bio              : "PhD candidate in Applied Mathematics for Biostatistics"
   location         : "Paris"
-  employer         :
+  employer         : "INSERM"
   pubmed           : # None for now
   googlescholar    : # None for now
-  email            : "axel.vuorinen@inria.fr"
+  email            : "axel.vuorinen@inserm.fr / axel.vuorinen@inria.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "axelvuorinen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/axel-vuorinen-a2b984195/"
-  orcid            : # None for now
+  orcid            : "https://orcid.org/0009-0002-8771-7225"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # None for now
   vine             :
   weibo            :
   xing             :
