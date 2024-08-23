@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Axel Vuorinen | Webpage"
+title                    : "Axel Vuorinen"
 title_separator          : "-"
 name                     : &name "Axel Vuorinen"
 description              : &description "My professional webpage to display my CV and my works."
