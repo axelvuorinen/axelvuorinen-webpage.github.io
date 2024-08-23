@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Axel Vuorinen"
   avatar           : "profile_picture.jpg"
-  bio              : "PhD candidate in Applied Mathematics with a focus on Biostatistics, affiliated with the HeKA research team (Inserm - Inria - UPC)."
+  bio              : "PhD candidate in Applied Mathematics with a focus on Biostatistics, affiliated with HeKA research team."
   location         : "HeKA team, PariSanté Campus, Paris"
-  employer         : "INSERM"
+  employer         : "Inserm"
   pubmed           : # None for now
   googlescholar    : # None for now
   email            : "axel.vuorinen@inserm.fr"
