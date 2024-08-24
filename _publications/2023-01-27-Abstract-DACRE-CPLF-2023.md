@@ -8,6 +8,5 @@ venue: 'CPLF (Congrès de Pneumologie en Langue Française)'
 paperurl: 'http://axelvuorinen-webpage.github.io/files/Abstract-DACRE-CPLF-2023.pdf'
 citation: 'Brinchault, G., Guy, T., Thepault, F., Le Liepvre, S., Vuorinen, A., Le Guillou, Y., Tilquin, F. (2023). &quot;Évolution des signes vitaux en vie réelle de patients BPCO : facteurs préventifs d’une réadmission après une hospitalisation pour exacerbation sévère – Étude clinique en vie réelle DACRE.&quot; <i>CPLF</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-Recommended citation: Brinchault, G., Guy, T., Thepault, F., Le Liepvre, S., Vuorinen, A., Le Guillou, Y., Tilquin, F. (2023). "Évolution des signes vitaux en vie réelle de patients BPCO : facteurs préventifs d’une réadmission après une hospitalisation pour exacerbation sévère – Étude clinique en vie réelle DACRE" <i>>CPLF</i>.
+Recommended citation: Brinchault, G., Guy, T., Thepault, F., Le Liepvre, S., Vuorinen, A., Le Guillou, Y., Tilquin, F. (2023). "Évolution des signes vitaux en vie réelle de patients BPCO : facteurs préventifs d’une réadmission après une hospitalisation pour exacerbation sévère – Étude clinique en vie réelle DACRE" <i>CPLF</i>.
