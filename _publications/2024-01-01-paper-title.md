@@ -1,7 +1,7 @@
 ---
 title: "Lorem ipsum"
 collection: publications
-permalink: /publication/2024-01-01-paper-title/
+permalink: /publication/2024-01-01-paper-title.md
 excerpt: 'In progress.'
 date: 2024-01-01
 venue: 'TBD'
