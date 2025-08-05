@@ -2,7 +2,7 @@
 title: "Introduction to Statistics and Probabilistic Simulations"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-spring-statistics-and-probabilistic-simulations.md
+permalink: /teaching/2024-spring-statistics-and-probabilistic-simulations
 venue: "Paris Cité University, Department of Mathematics"
 date: 2024-01-17 - 2024-05-21
 location: "Paris, France"
