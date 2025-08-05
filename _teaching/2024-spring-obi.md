@@ -2,9 +2,9 @@
 title: "Office software and computing tools"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-spring-obi.md
+permalink: /teaching/2024-spring-obi
 venue: "Paris Cité University, Department of Mathematics"
-date: 2024-01-01
+date: 2024-02-06 - 2024-04-11
 location: "Paris, France"
 ---
 
