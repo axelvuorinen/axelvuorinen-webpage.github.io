@@ -1,5 +1,5 @@
 ---
-title: "Office software and computing tools"
+title: "Office software and computing tools (Practical class)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-obi
