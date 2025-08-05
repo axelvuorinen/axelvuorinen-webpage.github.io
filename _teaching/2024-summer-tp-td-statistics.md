@@ -2,8 +2,8 @@
 title: "Introduction to Statistics and Stochastic Simulations"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-summer-tp-td-statistics
-venue: "University Paris Cité, Department"
+permalink: /teaching/2024-spring-statistics
+venue: "Paris Cité University, Department of Mathematics"
 date: 2024-01-01
 location: "Paris, France"
 ---
