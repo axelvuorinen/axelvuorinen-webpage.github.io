@@ -1,5 +1,5 @@
 ---
-title: "Algebra and Analysis (Oral Exam)"
+title: "Algebra and Analysis (Oral examination)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-algebra-and-analysis
