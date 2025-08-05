@@ -1,5 +1,5 @@
 ---
-title: "Algebra and Analysis II"
+title: "Algebra and Analysis (Oral Exam)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-algebra-and-analysis
@@ -9,7 +9,7 @@ location: "Paris, France"
 ---
 
 This course is the continuation of a year-long Algebra and Analysis module for second-year mathematics undergraduates.
-I was appointed as an examiner for the weekly oral assessments, where I had to prepare three different exercise sheets for each session.
+I was appointed as an examiner for the weekly oral examinations, where I had to prepare three different exercise sheets for each session.
 Volunteer students were required to solve one theoretical question (including a proof) and one or two exercises, based on a pre-announced program aligned 
 
 Syllabus
