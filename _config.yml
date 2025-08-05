@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Axel Vuorinen"
 title_separator          : "-"
 name                     : &name "Axel Vuorinen"
-description              : &description "My professional webpage to display my CV and my works."
+description              : &description "My professional academic webpage to display my CV and my works."
 url                      : https://axelvuorinen.github.io/axelvuorinen-webpage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "axelvuorinen-webpage.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Axel Vuorinen"
   avatar           : "profile_picture.jpg"
-  bio              : "PhD candidate in Applied Mathematics with a focus on Biostatistics, affiliated with HeKA research team."
+  bio              : "PhD candidate in Applied Mathematics - Inserm UMR 1346 HeKA team, Inria, Université Paris Cité"
   location         : "PariSanté Campus, Paris"
   employer         : "Inserm"
   pubmed           : # None for now
