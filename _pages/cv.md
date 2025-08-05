@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD candidate in applied mathematics, HeKA (Paris), December 2023 - 2027 (expected)
+* PhD candidate in Applied Mathematics, HeKA (Paris), December 2023 - November 2027 _(Expected)_
 * M.S. in Statistics specialized in Biostatistics, ENSAI (Bruz), September 2020 - November 2023
 * Preparatory Class for Elite Higher Education Institutions in Humanities and Social Sciences (B/L Track), Lycée Gabriel Guist'hau (Nantes), September 2018 - July 2020
 
@@ -34,18 +34,17 @@ Work experience
     * Published an abstract based on the internship results for the 2022 French-Language Pulmonology Conference (CPLF).
 
 
-Skills
+Research topics
 ======
 * Clinical trials and study design (Methodology)
 * Bayesian inference
-* Survival analysis
-* Handling multidimensional datasets
-* Classification and regression problems
-* Languages
-  * French, Native language (mother tongue)
-  * English, C1 level (TOIEC : 985/990)
-  * German, B2 level
-  * Finnish, Basic knowledges (father tongue)
+
+Languages
+======
+  * __French__ - Native language (mother tongue)
+  * __English__ - C1 (TOIEC: 985/990)
+  * German - B2
+  * Finnish - Basic knowledges (father tongue)
 
 Publications
 ======
