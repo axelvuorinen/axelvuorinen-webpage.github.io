@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* PhD candidate in Applied Mathematics, HeKA (Paris), December 2023 - November 2027 _(Expected)_
-* M.S. in Statistics specialized in Biostatistics, ENSAI (Bruz), September 2020 - November 2023
-* Preparatory Class for Elite Higher Education Institutions in Humanities and Social Sciences (B/L Track), Lycée Gabriel Guist'hau (Nantes), September 2018 - July 2020
+* PhD candidate in Applied Mathematics, December 2023 / November 2027 _(Expected)_, Inserm UMRS 1346 HeKA team, Inria, Université Paris Cité, Paris.
+_Thesis:_ Platform clinical trials for Phase I/II using PK/PD modelling. Supervisors: Moreno Ursino, Emmanuelle Comets.
+
+* M.Sc in Statistics and Data Science with a specialization in Biostatistics, September 2020 - November 2023, École nationale de la statistique et de l’analyse de l’information (ENSAI), Rennes.
+_Thesis:_ Optimizing early phase clinical trials incorporating pharmacometrics measures. Supervisor: Moreno Ursino.
+
+* Preparatory Class for Elite Higher Education Institutions in Humanities and Social Sciences (B/L Track), September 2018 - July 2020, Lycée Gabriel Guist'hau, Nantes.
 
 Work experience
 ======
